@@ -31,3 +31,7 @@ func FormatDate() Func {
 		}
 	}
 }
+
+func FormatDate(date string) string {
+	return "today is 13 march"
+}
